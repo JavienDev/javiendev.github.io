@@ -36,5 +36,9 @@ export const SOCIALS: Socials = [
   { 
     NAME: "youtube",
     HREF: "https://www.youtube.com/@JavienDevs",
+  },
+  { 
+    NAME: "blsky",
+    HREF: "https://bsky.app/profile/javiendev.bsky.social",
   }
 ];
