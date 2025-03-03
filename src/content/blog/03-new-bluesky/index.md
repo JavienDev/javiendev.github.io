@@ -4,18 +4,14 @@ description: "I will use it for mainly quick updates on what I am up to."
 date: "March 3 2025"
 ---
 
-So, I've recently bought a laptop for the purposes of development. Which opens me the lovely opportunity of getting to use purely linux since I won't be doing any gaming on this machine.
+So ever since **Mr.Musk** has consumed the platform of twitter, I've deleted my 8 year old account on the site. Not that Twitter needed even needed Elon for me to do this, but I just realized that the content I was consuming and seeing on the website was full of a bunch of "troll" accounts pushing random content and then begging for likes in the comments.
 
-So for my distro of choice, I chose Arch for a few reasons. 
-- I've used it on my main PC for a bit, before having to run back to Windows to play games with anti-cheat...
-- I like the philosophy and freedom of the barebones arch install, a freedom to create whatever you want, however you want.
+Or this god awful "Like to see the new like animation"... So i've looked else where for my quick needs of public approval. Bluesky.
 
-But beyond that, I just wanted to be able to say "I use arch, btw".
+Which I hope to become a place for me to share my passion and hopefully get some feedback on what I am working on.
 
-So I ended up with a barebones Arch install and then I tried KDE plasma for a couple of days before stumbling across a productivity video on youtube, and remember that linux has probably the best tiling and window managers out there, so I started looking into them.
+If someone is reading this blog, please DM me on blsky at **@javiendev.bsky.social**. Would be fun to see if anybody is reading my blogs.
 
-I ended up going with Hyprland, mostly because it was the first one that I actually looked at, so that was an easy choice. I fetched the USB and completely wiped my KDE arch install and started from scratch again.
+I will also try to update a blog post more often, about different topics I find interesting, one of which is my Diagnosis of Aspergers, but i'll write about that another time. 😅
 
-For the Hyprland installation, I found this amazing github repo that probably everyone already knows called [Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland 'Arch-Hyprland') by **JaKooLit**, and I can't underestimate how much this helped a newbie like myself when getting Hyprland to quickly look and feel like I had been using it for years, all the keybinds and setups just make sense.
-
-So far I've loved my experience on Arch, even more so that I did on my main computer, and once the anti-cheat situation gets better or I get bored of the games that have it, I will finally move to linux fully.
+Thanks for reading!
